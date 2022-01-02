@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App button {
+  background-color: lightcoral;
+  padding: 8px;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+}
